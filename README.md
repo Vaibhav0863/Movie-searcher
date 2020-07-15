@@ -14,7 +14,7 @@ This is simple movie searcher with the help of "Tmdb" api.
     npm install
 ```
 
-3. Generate your Tmdb api key.
+3. Generate your Tmdb api key. [(https://www.themoviedb.org/)](https://www.themoviedb.org/)
 
 4. Create .env file
 
