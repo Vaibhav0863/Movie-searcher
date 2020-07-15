@@ -14,7 +14,21 @@ This is simple movie searcher with the help of "Tmdb" api.
     npm install
 ```
 
-3. Start development server
+3. Generate your Tmdb api key.
+
+4. Create .env file
+
+```bash
+    touch .env
+```
+
+5. Set your API_KEY in .env file
+
+```text
+    API_KEY=<<your api key>>
+```
+
+6. Start development server
 
 ```bash
     npm run start-server
